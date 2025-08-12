@@ -5,7 +5,7 @@ A list of three good target objects and one bad target object will spawn in a ra
 
 A “Score: “ section will display in the UI, starting at zero. When the player clicks a target, the score will update and particles will explode as the target is destroyed. Each “Good” target adds a different point value to the score, while the “Bad” target subtracts from the score.When a “good” target drops below the sensor at the bottom of the screen, the targets will stop spawning and a “Game Over” message will display across the screen. Just underneath the “Game Over” message will be a “Reset Game” button that reboots the game and resets the score, so the player can enjoy it all over again.
 
-Starting the game will open to a beautiful menu, with the title displayed prominently and three difficulty buttons resting at the bottom of the screen. Each difficulty will affect the spawn rate of the targets, increasing the skill required to stop “good” targets from falling.
+Starting the game will open a menu, with the title displayed prominently and three difficulty buttons resting at the bottom of the screen. Each difficulty will affect the spawn rate of the targets, increasing the skill required to stop “good” targets from falling.
 
 <img width="703" height="417" alt="image" src="https://github.com/user-attachments/assets/637a3102-ebd9-41fd-8c24-886358aa5247" />
 <img width="700" height="411" alt="image" src="https://github.com/user-attachments/assets/a0d33a3d-bd57-497b-851b-e4965fe2ec6e" />
